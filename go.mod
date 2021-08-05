@@ -1,3 +1,3 @@
-module testFramework
+module gotest
 
 go 1.16
